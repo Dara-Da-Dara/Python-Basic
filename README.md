@@ -1,4 +1,4 @@
-# 🐍 Python for Data Science
+# Python for Data Science
 
 ## 📌 Overview
 Welcome to **Python for Data Science**! This course is designed to provide you with the essential skills to analyze, manipulate, and visualize data using Python.
