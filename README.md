@@ -38,4 +38,4 @@ pip install numpy pandas matplotlib seaborn scikit-learn
 If you’d like to contribute, feel free to submit a pull request or suggest improvements!
 
 ## 📩 Contact
-For any questions or collaborations, reach out at **your_email@example.com**
+For any questions or collaborations, reach out at **sahajashailja@gmail.com**
