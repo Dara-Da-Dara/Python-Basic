@@ -21,16 +21,75 @@ Python is an interpreted, high-level programming language known for its readabil
 >>> print("Hello, World!")
 Hello, World!
 ```
-#### Writing a Python script:
-Create a file `hello.py` and add:
-```python
-print("Hello, World!")
-```
-Run it using:
-```bash
-python hello.py
-```
 # 🐍 Python Data Types
+
+## 📌 Introduction
+In Python, **data types** define the type of data a variable can hold. Understanding data types is fundamental for effective programming and data manipulation.
+
+## 📝 Built-in Data Types
+Python has several built-in data types, categorized as follows:
+
+### 1️⃣ **Numeric Types**
+Used for numerical operations.
+- **`int`** – Integer values (e.g., `10`, `-5`)
+- **`float`** – Floating-point numbers (e.g., `3.14`, `-0.5`)
+- **`complex`** – Complex numbers (e.g., `3 + 4j`)
+
+### 2️⃣ **Text Type**
+- **`str`** – String type for textual data (e.g., `'Hello'`, `"Python"`)
+
+### 3️⃣ **Sequence Types**
+Used to store multiple items in a single variable.
+- **`list`** – Ordered, mutable collection (e.g., `[1, 2, 3]`)
+- **`tuple`** – Ordered, immutable collection (e.g., `(1, 2, 3)`)
+- **`range`** – Immutable sequence of numbers (e.g., `range(5) → 0,1,2,3,4`)
+
+### 4️⃣ **Set Types**
+Used for storing unique elements.
+- **`set`** – Unordered collection of unique elements (e.g., `{1, 2, 3}`)
+- **`frozenset`** – Immutable version of a set
+
+### 5️⃣ **Mapping Type**
+- **`dict`** – Key-value pairs (e.g., `{'name': 'Alice', 'age': 25}`)
+
+### 6️⃣ **Boolean Type**
+- **`bool`** – Represents `True` or `False`
+
+### 7️⃣ **Binary Types**
+- **`bytes`** – Immutable sequence of bytes
+- **`bytearray`** – Mutable sequence of bytes
+- **`memoryview`** – Memory-efficient view of binary data
+
+## 🔎 Checking Data Types
+Use the `type()` function to check the type of a variable:
+```python
+x = 10
+print(type(x))  # Output: <class 'int'>
+```
+
+## 🔄 Type Conversion (Type Casting)
+Convert one data type to another using built-in functions:
+```python
+x = 5  # int
+y = float(x)  # Convert int to float
+z = str(x)  # Convert int to string
+```
+
+## 🚀 Summary
+| Category    | Data Types |
+|------------|-----------|
+| Numeric    | `int`, `float`, `complex` |
+| Text       | `str` |
+| Sequence   | `list`, `tuple`, `range` |
+| Set        | `set`, `frozenset` |
+| Mapping    | `dict` |
+| Boolean    | `bool` |
+| Binary     | `bytes`, `bytearray`, `memoryview` |
+
+Understanding these data types is crucial for working with Python efficiently. Happy Coding! 🚀
+
+```
+# Python Data Types
 
 ## 📌 Introduction
 In Python, **data types** define the type of data a variable can hold. Understanding data types is fundamental for effective programming and data manipulation.
@@ -114,7 +173,7 @@ print("Multiline\nstring\nexample")
 
 ---
 
-## Class 2: Variables and Data Types
+##  Variables and Data Types
 ### Topics Covered:
 - Understanding variables and data types
 - Strings, integers, floats, and Boolean values
