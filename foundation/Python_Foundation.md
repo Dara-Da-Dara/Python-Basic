@@ -1,4 +1,4 @@
-# Introduction to Python - i5 Classes
+# Introduction to Python - 
 
 ## Course Overview
 This introductory course covers the fundamentals of Python programming, guiding beginners through essential concepts and practical applications.
