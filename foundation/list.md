@@ -30,24 +30,21 @@ my_list[1] = 50
 print(my_list)  # Output: [10, 50, 30]
 
 Adding Elements
-python
-Copy
-Edit
+
 my_list.append(40)  # Adds at the end
 print(my_list)  # Output: [10, 50, 30, 40]
 
 my_list.insert(1, 25)  # Inserts at index 1
 print(my_list)  # Output: [10, 25, 50, 30, 40]
 Removing Elements
-python
-Copy
-Edit
+
 my_list.remove(50)  # Removes first occurrence of 50
 print(my_list)  # Output: [10, 25, 30, 40]
 
 popped_element = my_list.pop()  # Removes last element
 print(popped_element)  # Output: 40
 print(my_list)  # Output: [10, 25, 30]
+
 4. Looping Through a List
 You can iterate through a list using a loop.
 
@@ -62,10 +59,9 @@ for fruit in my_list:
 # Apple
 # Banana
 # Cherry
+
 Using enumerate()
-python
-Copy
-Edit
+
 for index, value in enumerate(my_list):
     print(index, value)
 # Output:
@@ -75,12 +71,12 @@ for index, value in enumerate(my_list):
 5. List Comprehension
 A concise way to create lists.
 
-python
-Copy
-Edit
+
 squares = [x**2 for x in range(1, 6)]
 print(squares)  # Output: [1, 4, 9, 16, 25]
+
 6. Common List Methods
+
 Method	Description	Example
 append(x)	Adds x to the end of the list.	my_list.append(10)
 insert(i, x)	Inserts x at index i.	my_list.insert(1, 20)
@@ -96,12 +92,11 @@ Mutable?	✅ Yes	❌ No
 Ordered?	✅ Yes	✅ Yes
 Performance	❌ Slower	✅ Faster
 Uses	✅ Dynamic, frequently changing data	✅ Fixed, constant data
+
 8. Nested Lists
 Lists can contain other lists, creating a nested structure.
 
-python
-Copy
-Edit
+
 nested_list = [[1, 2, 3], [4, 5, 6], [7, 8, 9]]
 print(nested_list[1])   # Output: [4, 5, 6]
 print(nested_list[1][2])  # Output: 6
@@ -117,9 +112,7 @@ list2 = list1  # Both lists point to the same memory location
 list2.append(4)
 print(list1)  # Output: [1, 2, 3, 4] (Also modified)
 Deep Copy (Independent Copy)
-python
-Copy
-Edit
+
 import copy
 list1 = [1, 2, 3]
 list2 = copy.deepcopy(list1)  # Creates an independent copy
@@ -128,9 +121,7 @@ print(list1)  # Output: [1, 2, 3] (Unchanged)
 10. Sorting a List
 Lists can be sorted in ascending or descending order.
 
-python
-Copy
-Edit
+
 numbers = [4, 1, 3, 5, 2]
 numbers.sort()  # Sorts in ascending order
 print(numbers)  # Output: [1, 2, 3, 4, 5]
@@ -139,17 +130,13 @@ numbers.sort(reverse=True)  # Sorts in descending order
 print(numbers)  # Output: [5, 4, 3, 2, 1]
 11. List Operations
 Concatenation
-python
-Copy
-Edit
+
 list1 = [1, 2, 3]
 list2 = [4, 5, 6]
 combined_list = list1 + list2
 print(combined_list)  # Output: [1, 2, 3, 4, 5, 6]
 Repetition
-python
-Copy
-Edit
+
 my_list = [1, 2, 3]
 print(my_list * 3)  # Output: [1, 2, 3, 1, 2, 3, 1, 2, 3]
 Membership Check
@@ -162,9 +149,7 @@ print(50 in my_list)  # Output: False
 12. List Memory Efficiency
 Since lists are dynamic, they use more memory than tuples.
 
-python
-Copy
-Edit
+
 import sys
 list_obj = [1, 2, 3, 4, 5]
 tuple_obj = (1, 2, 3, 4, 5)
@@ -180,12 +165,8 @@ List comprehension helps in efficient list creation.
 
 Use lists for dynamic data, while tuples are better for fixed data.
 
-pgsql
-Copy
-Edit
 
-This is the full **Markdown file** on **Lists in Python**. 🚀  
-Would you like any additional modifications or enhancements? 😊
+
 
 
 
