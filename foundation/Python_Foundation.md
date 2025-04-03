@@ -40,6 +40,25 @@ Used for numerical operations.
 
 ### 3️⃣ **Sequence Types**
 Used to store multiple items in a single variable.
+
+# Mutable and Immutable Data in Python
+
+## Mutable Data Types
+Mutable objects can be changed after they are created. Operations on these objects can modify their contents without changing their identity (memory address).
+
+### Examples:
+- **Lists (`list`)**
+- **Dictionaries (`dict`)**
+- **Sets (`set`)**
+- **Byte Arrays (`bytearray`)**
+
+#### Example:
+```python
+my_list = [1, 2, 3]
+print(id(my_list))  # Memory address before modification
+my_list.append(4)
+print(id(my_list))  # Same memory address after modification
+
 - **`list`** – Ordered, mutable collection (e.g., `[1, 2, 3]`)
 - **`tuple`** – Ordered, immutable collection (e.g., `(1, 2, 3)`)
 - **`range`** – Immutable sequence of numbers (e.g., `range(5) → 0,1,2,3,4`)
