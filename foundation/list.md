@@ -27,7 +27,7 @@ my_list = [1, 2, 3, 4, 5, 6]
 print(my_list[1:4])  # Output: [2, 3, 4]
 ```
 
-## **3. Modifying a List (Mutable)**
+## **3. Modifying a List (Mutable)(rembember m= lsd,mutable -= list,tuple and dictionary)**
 Lists are mutable, meaning you can change, add, or remove elements.
 
 ```python
