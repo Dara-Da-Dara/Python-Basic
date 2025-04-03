@@ -1,4 +1,4 @@
-# **Python Functions - A Detailed Chapter for Students**  
+# **Python Functions **  
 
 ## **1. Introduction to Functions**  
 A function in Python is a reusable block of code that performs a specific task. Functions help in organizing and structuring code efficiently.  
