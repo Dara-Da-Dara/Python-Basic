@@ -75,6 +75,14 @@ print(setA.difference(setB))  # {1, 2}
 
 ## 3. Dictionary
 A **dictionary** is a collection of key-value pairs.
+A collection of key-value pairs
+
+Ordered (since Python 3.7) — maintains insertion order
+
+Mutable — you can change it after creation
+
+Keys are unique
+
 
 ### Creating a Dictionary
 ```python
@@ -84,7 +92,12 @@ dict1 = {
     "city": "New York"
 }
 ```
+  duplicate keys are not allowed 
 
+info = {'name': 'Bob', 'name': 'Charlie'}
+print(info)  # Output: {'name': 'Charlie'}
+
+  
 ### Accessing Elements
 ```python
 print(dict1["name"])  # Output: Alice
