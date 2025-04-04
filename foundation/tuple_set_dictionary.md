@@ -1,5 +1,6 @@
 
 # Python Data Structures: Tuple, Set, and Dictionary
+If a data type supports indexing, it is ordered. Ex - list , dictionary , tuple , string are ordered and set is not ordered 
 
 ## 1. Tuple
 A **tuple** is an immutable, ordered collection of elements.
