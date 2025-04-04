@@ -43,6 +43,12 @@ Unordered: It does not maintain any specific order of elements.
 
 Unique: It automatically removes duplicates — each element appears only once
 
+my_set = {'apple', 'banana', 'cherry', 'apple'}
+print(my_set)
+
+output= {'banana', 'cherry', 'apple'}
+
+
 ### Creating a Set
 ```python
 set1 = {1, 2, 3, 4, 5}
