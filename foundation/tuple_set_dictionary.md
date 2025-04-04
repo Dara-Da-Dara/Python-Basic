@@ -37,7 +37,7 @@ print(tuple1.index(3))  # Output: 2
 ---
 
 ## 2. Set
-A **set** is an unordered collection of unique elements.
+A **set** is an unordered collection of unique elements. Mutable
 
 Unordered: It does not maintain any specific order of elements. indexing and slicing possible 
 
