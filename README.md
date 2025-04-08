@@ -1,6 +1,6 @@
 # Python for Data Science
 <h2 style="color: teal; text-align: center;">
-  <strong>CLIP</strong>·as·service
+
 </h2>
 
 <p align="center">
