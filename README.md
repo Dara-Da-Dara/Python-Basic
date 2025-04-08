@@ -1,20 +1,19 @@
 # Python for Data Science
 <h2 style="color: teal; text-align: center;">
 
-</h2>
-
 <p align="center">
+  <!-- Day 1 -->
   <a href="https://github.com/Dara-Da-Dara/Python-Basic/blob/main/foundation/First%20class%20on%20python%202%20april%202025.ipynb" 
      style="background-color:#FF8C42;
             color:white;
             padding:6px 12px;
             border-radius:4px;
             text-decoration:none;
-            font-weight:bold;"
-     target="_blank">
+            font-weight:bold;">
      Day 1
   </a>
 
+  <!-- Day 2 -->
   <a href="https://github.com/Dara-Da-Dara/Python-Basic/blob/main/foundation/airthematic%20operator%20.ipynb" 
      style="background-color:#4CAF50;
             color:white;
@@ -22,13 +21,45 @@
             border-radius:4px;
             text-decoration:none;
             font-weight:bold;
-            margin-left:10px;"
-     target="_blank">
-     Day 2
+            margin-left:10px;">
+     Day 2 - Arithmetic
+  </a>
+
+  <a href="https://github.com/Dara-Da-Dara/Python-Basic/blob/main/foundation/assignment%20%20%20and%20comparision%20operators%20.ipynb" 
+     style="background-color:#388E3C;
+            color:white;
+            padding:6px 12px;
+            border-radius:4px;
+            text-decoration:none;
+            font-weight:bold;
+            margin-left:5px;">
+     Day 2 - Operators
+  </a>
+
+  <a href="https://github.com/Dara-Da-Dara/Python-Basic/blob/main/foundation/logical%20operator%20AND%20other%20operators%20.ipynb" 
+     style="background-color:#2E7D32;
+            color:white;
+            padding:6px 12px;
+            border-radius:4px;
+            text-decoration:none;
+            font-weight:bold;
+            margin-left:5px;">
+     Day 2 - Logical & Other
+  </a>
+
+  <!-- Day 3 -->
+  <a href="https://github.com/Dara-Da-Dara/Python-Basic/tree/main/foundation/list" 
+     style="background-color:#2196F3;
+            color:white;
+            padding:6px 12px;
+            border-radius:4px;
+            text-decoration:none;
+            font-weight:bold;
+            margin-left:10px;">
+     Day 3 - List
   </a>
 </p>
 
-  <a href="day3.md" style="background-color:#FFC107;color:white;padding:6px 12px;border-radius:4px;text-decoration:none;">Day 3</a>
   <a href="day4.md" style="background-color:#9C27B0;color:white;padding:6px 12px;border-radius:4px;text-decoration:none;">Day 4</a>
   <a href="day5.md" style="background-color:#00BCD4;color:white;padding:6px 12px;border-radius:4px;text-decoration:none;">Day 5</a><br><br>
   <a href="day6.md" style="background-color:#3F51B5;color:white;padding:6px 12px;border-radius:4px;text-decoration:none;">Day 6</a>
