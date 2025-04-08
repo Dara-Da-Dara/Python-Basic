@@ -1,5 +1,14 @@
 # Python for Data Science
 <h2 style="color: teal; text-align: center;">
+| Day   | Topic Covered                                  | Duration   |
+|-------|------------------------------------------------|------------|
+| [Day 1](https://github.com/Dara-Da-Dara/Python-Basic/blob/main/foundation/First%20class%20on%20python%202%20april%202025.ipynb) | Introduction to Python                         | 1 hour     |
+| [Day 2 - Arithmetic](https://github.com/Dara-Da-Dara/Python-Basic/blob/main/foundation/airthematic%20operator%20.ipynb) <br> [Assignment & Comparison](https://github.com/Dara-Da-Dara/Python-Basic/blob/main/foundation/assignment%20%20%20and%20comparision%20operators%20.ipynb) <br> [Logical & Other](https://github.com/Dara-Da-Dara/Python-Basic/blob/main/foundation/logical%20operator%20AND%20other%20operators%20.ipynb) | Operators Overview                             | 1.5 hours  |
+| [Day 3](https://github.com/Dara-Da-Dara/Python-Basic/tree/main/foundation/list) | Lists and List Operations                      | 1 hour     |
+| [Day 4](https://github.com/Dara-Da-Dara/Python-Basic/blob/main/foundation/tuple_set_dictionary.md) | Tuples, Sets, and Dictionaries                 | 1 hour     |
+| [Day 5](https://github.com/Dara-Da-Dara/Python-Basic/tree/main/foundation/function) | Functions in Python                            | 1.5 hours  |
+| [Day 6](https://github.com/Dara-Da-Dara/Python-Basic/tree/main/foundation/Panda) | Introduction to Pandas                         | 2 hours    |
+| [Day 7](https://github.com/Dara-Da-Dara/Python-Basic/tree/main/foundation/Panda) | Pandas Continued (DataFrame operations etc.)   | 2 hours    |
 
 <p align="center">
   <!-- Day 1 -->
