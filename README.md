@@ -25,7 +25,7 @@
             text-decoration:none;
             font-weight:bold;
             margin-left:10px;">
-     Day 2 - Arithmetic
+     Day 2 - Arithmetic Operator 
   </a>
 
   <a href="https://github.com/Dara-Da-Dara/Python-Basic/blob/main/foundation/assignment%20%20%20and%20comparision%20operators%20.ipynb" 
@@ -36,7 +36,7 @@
             text-decoration:none;
             font-weight:bold;
             margin-left:5px;">
-     Day 2 - Comparison
+     Day 2 - Comparison Operator
   </a>
 
   <a href="https://github.com/Dara-Da-Dara/Python-Basic/blob/main/foundation/logical%20operator%20AND%20other%20operators%20.ipynb" 
@@ -47,7 +47,7 @@
             text-decoration:none;
             font-weight:bold;
             margin-left:5px;">
-     Day 2 - Logical
+     Day 2 - Logical Operator
   </a>
 
   <!-- Day 3 -->
