@@ -4,18 +4,30 @@
 </h2>
 
 <p align="center">
-<a href="https://github.com/Dara-Da-Dara/Python-Basic/blob/main/foundation/First%20class%20on%20python%202%20april%202025.ipynb" 
-   style="background-color:#FF8C42;
-          color:white;
-          padding:6px 12px;
-          border-radius:4px;
-          text-decoration:none;
-          font-weight:bold;"
-   target="_blank">
-   Day 1
-</a>
+  <a href="https://github.com/Dara-Da-Dara/Python-Basic/blob/main/foundation/First%20class%20on%20python%202%20april%202025.ipynb" 
+     style="background-color:#FF8C42;
+            color:white;
+            padding:6px 12px;
+            border-radius:4px;
+            text-decoration:none;
+            font-weight:bold;"
+     target="_blank">
+     Day 1
+  </a>
 
-  <a href="day2.md" style="background-color:#4CAF50;color:white;padding:6px 12px;border-radius:4px;text-decoration:none;">Day 2</a>
+  <a href="https://github.com/Dara-Da-Dara/Python-Basic/blob/main/foundation/airthematic%20operator%20.ipynb" 
+     style="background-color:#4CAF50;
+            color:white;
+            padding:6px 12px;
+            border-radius:4px;
+            text-decoration:none;
+            font-weight:bold;
+            margin-left:10px;"
+     target="_blank">
+     Day 2
+  </a>
+</p>
+
   <a href="day3.md" style="background-color:#FFC107;color:white;padding:6px 12px;border-radius:4px;text-decoration:none;">Day 3</a>
   <a href="day4.md" style="background-color:#9C27B0;color:white;padding:6px 12px;border-radius:4px;text-decoration:none;">Day 4</a>
   <a href="day5.md" style="background-color:#00BCD4;color:white;padding:6px 12px;border-radius:4px;text-decoration:none;">Day 5</a><br><br>
