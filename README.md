@@ -1,16 +1,7 @@
 # Python for Data Science
 <h2 style="color: teal; text-align: center;">
-| Day   | Topic Covered                                  | Duration   |
-|-------|------------------------------------------------|------------|
-| [Day 1](https://github.com/Dara-Da-Dara/Python-Basic/blob/main/foundation/First%20class%20on%20python%202%20april%202025.ipynb) | Introduction to Python                         | 1 hour     |
-| [Day 2 - Arithmetic](https://github.com/Dara-Da-Dara/Python-Basic/blob/main/foundation/airthematic%20operator%20.ipynb) <br> [Assignment & Comparison](https://github.com/Dara-Da-Dara/Python-Basic/blob/main/foundation/assignment%20%20%20and%20comparision%20operators%20.ipynb) <br> [Logical & Other](https://github.com/Dara-Da-Dara/Python-Basic/blob/main/foundation/logical%20operator%20AND%20other%20operators%20.ipynb) | Operators Overview                             | 1.5 hours  |
-| [Day 3](https://github.com/Dara-Da-Dara/Python-Basic/tree/main/foundation/list) | Lists and List Operations                      | 1 hour     |
-| [Day 4](https://github.com/Dara-Da-Dara/Python-Basic/blob/main/foundation/tuple_set_dictionary.md) | Tuples, Sets, and Dictionaries                 | 1 hour     |
-| [Day 5](https://github.com/Dara-Da-Dara/Python-Basic/tree/main/foundation/function) | Functions in Python                            | 1.5 hours  |
-| [Day 6](https://github.com/Dara-Da-Dara/Python-Basic/tree/main/foundation/Panda) | Introduction to Pandas                         | 2 hours    |
-| [Day 7](https://github.com/Dara-Da-Dara/Python-Basic/tree/main/foundation/Panda) | Pandas Continued (DataFrame operations etc.)   | 2 hours    |
 
-<p align="center">
+ <p align="center">
   <!-- Day 1 -->
   <a href="https://github.com/Dara-Da-Dara/Python-Basic/blob/main/foundation/First%20class%20on%20python%202%20april%202025.ipynb" 
      style="background-color:#FF8C42;
@@ -67,16 +58,56 @@
             margin-left:10px;">
      Day 3 - List
   </a>
+
+  <!-- Day 4 -->
+  <a href="https://github.com/Dara-Da-Dara/Python-Basic/blob/main/foundation/tuple_set_dictionary.md" 
+     style="background-color:#9C27B0;
+            color:white;
+            padding:6px 12px;
+            border-radius:4px;
+            text-decoration:none;
+            font-weight:bold;
+            margin-left:10px;">
+     Day 4 - Tuple, Set & Dict
+  </a>
+
+  <!-- Day 5 -->
+  <a href="https://github.com/Dara-Da-Dara/Python-Basic/tree/main/foundation/function" 
+     style="background-color:#FF5722;
+            color:white;
+            padding:6px 12px;
+            border-radius:4px;
+            text-decoration:none;
+            font-weight:bold;
+            margin-left:10px;">
+     Day 5 - Functions
+  </a>
+
+  <!-- Day 6 -->
+  <a href="https://github.com/Dara-Da-Dara/Python-Basic/tree/main/foundation/Panda" 
+     style="background-color:#795548;
+            color:white;
+            padding:6px 12px;
+            border-radius:4px;
+            text-decoration:none;
+            font-weight:bold;
+            margin-left:10px;">
+     Day 6 - Pandas
+  </a>
+
+  <!-- Day 7 -->
+  <a href="https://github.com/Dara-Da-Dara/Python-Basic/tree/main/foundation/Panda" 
+     style="background-color:#607D8B;
+            color:white;
+            padding:6px 12px;
+            border-radius:4px;
+            text-decoration:none;
+            font-weight:bold;
+            margin-left:10px;">
+     Day 7 - Pandas Continued
+  </a>
 </p>
 
-  <a href="day4.md" style="background-color:#9C27B0;color:white;padding:6px 12px;border-radius:4px;text-decoration:none;">Day 4</a>
-  <a href="day5.md" style="background-color:#00BCD4;color:white;padding:6px 12px;border-radius:4px;text-decoration:none;">Day 5</a><br><br>
-  <a href="day6.md" style="background-color:#3F51B5;color:white;padding:6px 12px;border-radius:4px;text-decoration:none;">Day 6</a>
-  <a href="day7.md" style="background-color:#FF5722;color:white;padding:6px 12px;border-radius:4px;text-decoration:none;">Day 7</a>
-  <a href="day8.md" style="background-color:#607D8B;color:white;padding:6px 12px;border-radius:4px;text-decoration:none;">Day 8</a>
-  <a href="day9.md" style="background-color:#8BC34A;color:white;padding:6px 12px;border-radius:4px;text-decoration:none;">Day 9</a>
-  <a href="day10.md" style="background-color:#E91E63;color:white;padding:6px 12px;border-radius:4px;text-decoration:none;">Day 10</a>
-</p>
 
 ## 📌 Overview
 Welcome to **Python for Data Science**! This course is designed to provide you with the essential skills to analyze, manipulate, and visualize data using Python.
