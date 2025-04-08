@@ -1,4 +1,20 @@
 # Python for Data Science
+<h2 style="color: teal; text-align: center;">
+  <strong>CLIP</strong>·as·service
+</h2>
+
+<p align="center">
+  <a href="day1.md" style="background-color:#FF8C42;color:white;padding:6px 12px;border-radius:4px;text-decoration:none;">Day 1</a>
+  <a href="day2.md" style="background-color:#4CAF50;color:white;padding:6px 12px;border-radius:4px;text-decoration:none;">Day 2</a>
+  <a href="day3.md" style="background-color:#FFC107;color:white;padding:6px 12px;border-radius:4px;text-decoration:none;">Day 3</a>
+  <a href="day4.md" style="background-color:#9C27B0;color:white;padding:6px 12px;border-radius:4px;text-decoration:none;">Day 4</a>
+  <a href="day5.md" style="background-color:#00BCD4;color:white;padding:6px 12px;border-radius:4px;text-decoration:none;">Day 5</a><br><br>
+  <a href="day6.md" style="background-color:#3F51B5;color:white;padding:6px 12px;border-radius:4px;text-decoration:none;">Day 6</a>
+  <a href="day7.md" style="background-color:#FF5722;color:white;padding:6px 12px;border-radius:4px;text-decoration:none;">Day 7</a>
+  <a href="day8.md" style="background-color:#607D8B;color:white;padding:6px 12px;border-radius:4px;text-decoration:none;">Day 8</a>
+  <a href="day9.md" style="background-color:#8BC34A;color:white;padding:6px 12px;border-radius:4px;text-decoration:none;">Day 9</a>
+  <a href="day10.md" style="background-color:#E91E63;color:white;padding:6px 12px;border-radius:4px;text-decoration:none;">Day 10</a>
+</p>
 
 ## 📌 Overview
 Welcome to **Python for Data Science**! This course is designed to provide you with the essential skills to analyze, manipulate, and visualize data using Python.
