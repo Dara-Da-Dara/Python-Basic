@@ -1,7 +1,9 @@
 # Python for Data Science
 <h2 style="color: teal; text-align: center;">
 
- <p align="center">
+
+<p align="center">
+
   <!-- Day 1 -->
   <a href="https://github.com/Dara-Da-Dara/Python-Basic/blob/main/foundation/First%20class%20on%20python%202%20april%202025.ipynb" 
      style="background-color:#FF8C42;
@@ -9,8 +11,9 @@
             padding:6px 12px;
             border-radius:4px;
             text-decoration:none;
-            font-weight:bold;">
-     Day 1
+            font-weight:bold;
+            margin-left:10px;">
+     Day 1 - Intro to Python
   </a>
 
   <!-- Day 2 -->
@@ -33,7 +36,7 @@
             text-decoration:none;
             font-weight:bold;
             margin-left:5px;">
-     Day 2 - Operators
+     Day 2 - Comparison
   </a>
 
   <a href="https://github.com/Dara-Da-Dara/Python-Basic/blob/main/foundation/logical%20operator%20AND%20other%20operators%20.ipynb" 
@@ -44,7 +47,7 @@
             text-decoration:none;
             font-weight:bold;
             margin-left:5px;">
-     Day 2 - Logical & Other
+     Day 2 - Logical
   </a>
 
   <!-- Day 3 -->
@@ -106,7 +109,10 @@
             margin-left:10px;">
      Day 7 - Pandas Continued
   </a>
+
 </p>
+
+
 
 
 ## 📌 Overview
