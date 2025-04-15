@@ -1,5 +1,5 @@
 
-# 🐍 Python Loops Lesson
+#  Python Loops Lesson
 
 ## 📌 Introduction to Loops
 Loops are used to **execute a block of code repeatedly**. Python has two main types of loops:
