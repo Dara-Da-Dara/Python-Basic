@@ -278,10 +278,14 @@ Python has several built-in functions, including:
 
 ---
 # some examples of functions 
+
 def add_numbers(a, b):
+    
     return a + b
 
+
 result = add_numbers(5, 3)
+
 print("Sum:", result)
 
 ## **Key Takeaways**  
