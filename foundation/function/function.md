@@ -277,16 +277,7 @@ Python has several built-in functions, including:
 - `zip()`
 
 ---
-# some examples of functions 
 
-def add_numbers(a, b):
-    
-    return a + b
-
-
-result = add_numbers(5, 3)
-
-print("Sum:", result)
 
 ## **Key Takeaways**  
 - Functions help in code reusability and organization.  
