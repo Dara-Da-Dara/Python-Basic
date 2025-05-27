@@ -90,7 +90,7 @@ The `continue` statement **skips** the current iteration and jumps to the next.
 ```python
 i = 0
 while i < 10:
-    i += 1
+    i = i + 1
     if i % 2 == 0:
         continue  # skip even numbers
     print(i)
