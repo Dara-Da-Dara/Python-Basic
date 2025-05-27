@@ -68,7 +68,8 @@ while i <= 10:
     print(i)
     if i == 5:
         break  # exit the loop
-    i += 1
+    i = i + 1
+
 ```
 
 ### 🔚 Output:
