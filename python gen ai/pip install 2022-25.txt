@@ -1,0 +1,30 @@
+# 2022 Libraries / Early Foundation
+pip install transformers==4.19.2           # Hugging Face Transformers stable in 2022
+pip install diffusers==0.3.0               # Early diffusion pipelines
+pip install langchain==0.0.230             # Early LangChain releases
+pip install tiktoken==0.3.1                # Early OpenAI BPE tokenizer
+
+# 2023 Libraries / Expanding Ecosystem
+pip install transformers==4.31.0           # Mid-2023 Transformers updates
+pip install diffusers==0.17.1              # Image/video generation updates
+pip install langchain==0.0.236             # LLM orchestration updates
+pip install peft==0.8.0                     # LoRA / efficient fine-tuning support
+pip install bitsandbytes==0.39.0           # GPU memory efficient quantization
+pip install llama-cpp-python==0.1.62       # Local LLM inference bindings
+
+# 2024 Libraries / Major Advancements
+pip install transformers==4.41.2
+pip install diffusers==0.32.0
+pip install langchain==0.3.0
+pip install bitsandbytes==0.43.1
+pip install tiktoken==0.8.0
+pip install peft==0.13.1
+pip install llama-cpp-python
+
+# 2025 Libraries / Latest Releases
+pip install genai-processors                 # Workflow orchestration library
+pip install gaico                            # Evaluation framework for generative outputs
+pip install samila                           # Generative art / algorithmic images
+pip install transformers --upgrade           # New Transformer model releases 2025
+pip install diffusers --upgrade              # Diffusers video generation updates
+pip install raglight                         # Retrieval-Augmented Generation library
