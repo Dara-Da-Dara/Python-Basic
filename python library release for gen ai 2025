@@ -1,0 +1,71 @@
+# 🆕 2025 Generative AI Python Libraries / Projects
+
+This document highlights notable **2025 generative AI Python libraries / frameworks**, their purpose, and installation instructions.
+
+| Library / Project                          | What it is / Why it matters                                                                                                             | Notes / Release or evidence | Install |
+| ------------------------------------------ | --------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------- | ------- |
+| **GenAI Processors (by Google DeepMind)**  | A lightweight Python library for orchestration of generative-AI workflows (real-time, multimodal).                                      | Released in 2025 under Apache-2.0. ([MarkTechPost][1])                                                                                  | `pip install genai-processors` |
+| **GAICo**                                  | A Python framework for evaluating generative AI outputs (text, images, etc.), cross-modal comparison, metrics, reporting.               | Released on PyPI in June 2025. ([arXiv][2])                                                                                             | `pip install gaico` |
+| **Samila**                                 | A generative art Python library (algorithmic / mathematical) for creating visual compositions.                                          | Paper released April 2025. ([arXiv][3])                                                                                                 | `pip install samila` |
+| **“New Transformers model releases 2025”** | The Transformers community is actively pushing new model releases as of April 2025. ([Hugging Face][4])                                 | The “New Transformers Model Releases – 22nd April 2025” discussion indicates continued updates. ([Hugging Face][4])                     | `pip install transformers --upgrade` |
+| **Diffusers / video gen roadmap**          | The Diffusers project is explicitly planning to expand video generation, more adapters, distillation, etc. in 2025. ([Hugging Face][5]) | The blog mentions “Looking ahead … anticipate significant advancements in video generation models throughout 2025.” ([Hugging Face][5]) | `pip install diffusers --upgrade` |
+
+[1]: https://www.marktechpost.com/2025/07/13/google-deepmind-releases-genai-processors-a-lightweight-python-library-that-enables-efficient-and-parallel-content-processing/?utm_source=chatgpt.com "Google DeepMind Releases GenAI Processors - MarkTechPost"
+[2]: https://arxiv.org/abs/2508.16753?utm_source=chatgpt.com "GAICo: A Deployed and Extensible Framework for Evaluating Diverse and Multimodal Generative AI Outputs"
+[3]: https://arxiv.org/abs/2504.04298?utm_source=chatgpt.com "Samila: A Generative Art Generator"
+[4]: https://huggingface.co/spaces/transformers-community/support/discussions?utm_source=chatgpt.com "transformers-community/support · Discussions"
+[5]: https://huggingface.co/blog/video_gen?utm_source=chatgpt.com "State of open video generation models in Diffusers"
+
+---
+
+## 🔹 Usage Examples (Python Code)
+
+### 1. GenAI Processors
+```python
+from genai_processors import Workflow
+workflow = Workflow()
+workflow.add_task("generate_text", prompt="Hello AI world")
+workflow.run()
+
+
+---
+import gaico
+evaluator = gaico.Evaluator(model_output="My generated text")
+metrics = evaluator.evaluate()
+print(metrics)
+---
+from samila import GenerativeImage
+import matplotlib.pyplot as plt
+
+def my_func(x, y):
+    return (x**2 - y**2, 2*x*y)
+
+g = GenerativeImage(my_func)
+g.generate_image()
+g.plot_image()
+plt.show()
+---
+from transformers import pipeline
+generator = pipeline("text-generation", model="gpt2")
+print(generator("AI in 2025 will", max_length=40, num_return_sequences=1))
+---
+from diffusers import StableDiffusionPipeline
+pipe = StableDiffusionPipeline.from_pretrained("runwayml/stable-diffusion-v1-5")
+image = pipe("A futuristic city in 2025").images[0]
+image.show()
+---
+# 2024 Libraries
+pip install transformers==4.41.2
+pip install diffusers==0.32.0
+pip install langchain==0.3.0
+pip install bitsandbytes==0.43.1
+pip install tiktoken==0.8.0
+pip install peft==0.13.1
+pip install llama-cpp-python
+
+# 2025 Libraries / Updates
+pip install genai-processors
+pip install gaico
+pip install samila
+pip install transformers --upgrade
+pip install diffusers --upgrade
