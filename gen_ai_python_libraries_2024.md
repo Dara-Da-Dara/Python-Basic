@@ -1,5 +1,16 @@
 # 🚀 Usage of 2024 Gen-AI Python Libraries
 
+pip install \
+  transformers==4.41.2 \
+  diffusers==0.32.0 \
+  peft==0.13.1 \
+  langchain==0.3.0 \
+  tiktoken==0.8.0 \
+  bitsandbytes==0.43.1 \
+  accelerate==0.32.0 \
+  datasets==2.21.0
+
+
 ## 1. Transformers (Hugging Face)
 _Run pretrained LLMs easily._
 
