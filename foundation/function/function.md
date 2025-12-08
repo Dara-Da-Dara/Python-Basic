@@ -10,6 +10,25 @@ A function in Python is a reusable block of code that performs a specific task. 
 - **Easier Debugging** – Errors are isolated within functions.  
 
 ---
+###
+# 🐍 Python Functions — One-Page Beginner Guide
+
+## ✅ What is a Function?
+A function is a reusable block of code that performs a task.
+
+Use functions when:
+- You want to avoid repeating code  
+- You want cleaner and organized programs  
+- You want to break tasks into smaller parts  
+
+---
+
+## 🔹 1. Defining & Calling a Function
+```python
+def greet():
+    print("Hello!")
+greet()
+
 
 ## **2. Defining and Calling a Function**  
 
@@ -55,9 +74,28 @@ In Python, a function is defined using the `def` keyword.
 | Useful for calculations     | Useful for printing or updating things   |
 
 ---
+### When to use return?
 
+When you want the function to give back a value
+
+When you want to store or reuse results
 ## **3. Function Parameters and Arguments**  
 Functions can take inputs, known as parameters, to process data.  
+### 2. Function With Parameters
+def greet_person(name):
+    print("Hello", name)
+greet_person("Shailja")
+
+### 3. Function With Return
+def add(a, b):
+    return a + b
+result = add(5, 3)
+### four type of function 
+def f1(): print("Hi")             # No parameter, no return
+def f2(name): print(name)         # Parameter, no return
+def f3(): return 100              # No parameter, return
+def f4(a,b): return a+b           # Parameter, return
+
 
 ### **Types of Arguments in Python Functions**  
 1. **Positional Arguments**  
