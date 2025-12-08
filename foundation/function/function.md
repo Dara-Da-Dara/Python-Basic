@@ -139,6 +139,15 @@ Positional	student("Shailja", 25)	✅ Yes
 
 Keyword	student(name="Shailja", age=25)	❌ No
 
+
+
+| Term                    | Meaning                              |
+| ----------------------- | ------------------------------------ |
+| **Argument**            | Value sent to a function during call |
+| **Positional Argument** | Argument passed **in order**         |
+| **Keyword Argument**    | Argument passed using **name=value** |
+
+
 ### **3. Default Arguments**  
 If an argument is not provided, it takes a default value.  
 
