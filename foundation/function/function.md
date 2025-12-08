@@ -164,7 +164,7 @@ If an argument is not provided, it takes a default value.
  Hello, David  
 ```
 
-### **4. Arbitrary Arguments (`*args` and `**kwargs`)**  
+### **4. Arbitrary Arguments (`*args`(Variable-Length Positional Arguments) and `**kwargs(Variable-Length Keyword Arguments)`)**  
 #### **Using `*args` for Multiple Positional Arguments**  
 ```python
  def add_numbers(*numbers):
@@ -177,6 +177,9 @@ If an argument is not provided, it takes a default value.
 ```
  Sum: 100
 ```
+✔ *args collects values into a tuple.
+✔ You can pass 1, 5, or 50 values.
+
 
 #### **Using `**kwargs` for Multiple Keyword Arguments**  
 ```python
@@ -192,7 +195,8 @@ If an argument is not provided, it takes a default value.
  age : 21  
  course : AI  
 ```
-
+*kwargs collects values into a dictionary.
+✔ Used when you want flexible keyword-based inputs.
 ---
 
 ## **4. Return Statement**  
@@ -209,7 +213,8 @@ Functions can return values using the `return` keyword.
 ```
  Square: 25
 ```
-
+✔ *args collects values into a tuple.
+✔ You can pass 1, 5, or 50 values.
 ---
 
 ## **5. Lambda Functions (Anonymous Functions)**  
