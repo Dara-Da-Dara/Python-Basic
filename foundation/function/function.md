@@ -47,6 +47,11 @@ In Python, a function is defined using the `def` keyword.
 ```
  Hello, John
 ```
+### | With `return`               | Without `return`                         |
+| --------------------------- | ---------------------------------------- |
+| Function sends a value back | Function does an action only             |
+| Can store in a variable     | Nothing returned (Python returns `None`) |
+| Useful for calculations     | Useful for printing or updating things   |
 
 ---
 
