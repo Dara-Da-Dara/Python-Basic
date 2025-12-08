@@ -216,6 +216,11 @@ Functions can return values using the `return` keyword.
 ✔ *args collects values into a tuple.
 ✔ You can pass 1, 5, or 50 values.
 ---
+| Concept          | Meaning                       | Stored As | Example       |
+| ---------------- | ----------------------------- | --------- | ------------- |
+| Default Argument | Pre-set default value         | —         | `def f(x=10)` |
+| *args            | Multiple positional arguments | tuple     | `f(1,2,3)`    |
+| **kwargs         | Multiple keyword arguments    | dict      | `f(a=1,b=2)`  |
 
 ## **5. Lambda Functions (Anonymous Functions)**  
 A lambda function is a small, anonymous function defined using the `lambda` keyword.  
