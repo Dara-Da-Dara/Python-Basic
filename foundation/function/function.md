@@ -130,7 +130,11 @@ Arguments are passed using the parameter name explicitly.
  Name: Bob  
  Age: 22  
 ```
-
+### 
+🎯 Positional vs Keyword Arguments (Quick View)
+Type	Example	Order matters?
+Positional	student("Shailja", 25)	✅ Yes
+Keyword	student(name="Shailja", age=25)	❌ No
 ### **3. Default Arguments**  
 If an argument is not provided, it takes a default value.  
 
